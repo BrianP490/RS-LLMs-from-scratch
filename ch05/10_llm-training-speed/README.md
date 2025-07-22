@@ -123,7 +123,7 @@ After:
 &nbsp;
 ### 5. Using bfloat16 precision
 
-- Switches from 32-bit float to 16-bit brain float (bfloat16) precision (for more on this topic, see my [article here](https://magazine.sebastianraschka.com/p/the-missing-bits-llama-2-weights))
+- Switches from 32-bit float to 16-bit brain float (bfloat16) precision
 
 Before:
 - `Avg tok/sec: 28402`
